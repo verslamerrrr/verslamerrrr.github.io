@@ -1,12 +1,12 @@
 ---
 home: true
-layout: BlogHome
+layout: Home
 icon: home
 title: 博客主页
 heroImage:  /logo.png
-heroText: 去海边 在海边
+heroText: 嗨
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: 去海边 在海边
 projects:
   - icon: project
     name: 项目名称

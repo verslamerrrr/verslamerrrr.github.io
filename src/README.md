@@ -1,11 +1,11 @@
 ---
 home: true
-layout: BlogHome
+layout: Home
 icon: home
-title: Blog Home
+title: Home
 heroImage:  /logo.png
-heroText: Vers La Mer Dans La Mer
-tagline: You can put your slogan here
+heroText: Bonjour
+tagline: Vers La Mer Dans La Mer
 heroFullScreen: true
 projects:
   - icon: project
