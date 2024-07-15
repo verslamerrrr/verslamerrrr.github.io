@@ -4,7 +4,7 @@ layout: BlogHome
 icon: home
 title: Blog Home
 heroImage:  /logo.png
-heroText: The name of your blog
+heroText: Vers La Mer Dans La Mer
 tagline: You can put your slogan here
 heroFullScreen: true
 projects:
