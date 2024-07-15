@@ -1,7 +1,7 @@
 ---
 home: true
-layout: Home
-icon: home
+layout: BLogHome
+icon: bloghome
 title: 博客主页
 heroImage:  /logo.png
 heroText: 嗨

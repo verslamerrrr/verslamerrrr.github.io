@@ -1,7 +1,7 @@
 ---
 home: true
-layout: Home
-icon: home
+layout: BlogHome
+icon: bloghome
 title: Home
 heroImage:  /logo.png
 heroText: Bonjour
