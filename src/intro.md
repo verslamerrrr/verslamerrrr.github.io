@@ -1,5 +1,5 @@
 ---
-icon: circle-info
+icon: /icon.png
 cover: /cover.png
 ---
 
