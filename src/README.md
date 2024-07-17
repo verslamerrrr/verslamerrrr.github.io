@@ -1,8 +1,8 @@
 ---
 home: true
 layout: BlogHome
-icon: bloghome
-title: Home
+icon: home
+title: Blog Home
 heroImage:  /logo.png
 heroText: Bonjour
 tagline: Vers La Mer Dans La Mer
