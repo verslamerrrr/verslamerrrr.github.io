@@ -10,4 +10,3 @@ tagline: Vers La Mer Dans La Mer
 heroFullScreen: true
 footer: customize your footer text
 ---
-
