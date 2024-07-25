@@ -87,6 +87,36 @@ export default hopeTheme({
   
 
   plugins: {
+    shiki: {
+      lineNumbers: 1,
+      notationDiff: true,
+      notationFocus: true,
+      highlightLines: true,
+      notationHighlight: true,
+      langs: ['sql', 'python', 'java', 'javascript', 'c', 'c#', 'c++', 'html', 'css',
+        'bash', 'rust', 'php', 'r', 'cmd', 'yaml', 'markdown', 'http', 'cmake', 'matlab',
+        'plsql', 'ini', "fortran-free-form", "fortran-fixed-form", 'go', 'vue', 'tex', 'text', 'csv', 'fish',
+        'makefile', 'typescript',
+      ],
+      langAlias: {
+        ["fortran"]: "fortran-free-form",
+      },
+      theme: "monokai",
+      // themes: {
+      //   light: "github-light",
+      //   dark: "one-dark-pro",
+      // },
+    },
+    search: {
+      maxSuggestions: 32,
+      hotKeys: [],
+      //你的选项
+      locales: {
+        "/":{
+          placeholder:"搜索",
+        }
+      }
+    },
     blog: true,
 
     
