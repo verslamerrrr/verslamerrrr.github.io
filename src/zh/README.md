@@ -8,5 +8,5 @@ heroText: 嗨
 heroFullScreen: true
 bgImage: /seacover.JPG
 tagline: 去海边 在海边
-footer: 自定义你的页脚文字
+footer: 欢迎来到我的世界
 ---

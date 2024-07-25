@@ -8,5 +8,5 @@ heroText: Bonjour
 bgImage: /seacover.JPG
 tagline: Vers La Mer Dans La Mer
 heroFullScreen: true
-footer: customize your footer text
+footer: Welcome to my world
 ---
