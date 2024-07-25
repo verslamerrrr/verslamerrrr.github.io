@@ -21,7 +21,7 @@ export default defineUserConfig({
   theme,
 
   head:[
-    ['link', { rel: 'icon', href: '/icon.ico'}],
+    ['link', { rel: 'icon', href: '/homelogo.ico'}],
   ]
   // Enable it with pwa
   // shouldPrefetch: false,
