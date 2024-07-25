@@ -11,11 +11,11 @@ bgImageStyle:
 heroText: Fiona的生活
 tagline: 英语｜编程｜旅行｜摄影
 action:
-    - text: memoirs
+    - text: 过去
       link: /zh/memoirs.html
       type: primary
 
-    - text: plans
+    - text: 未来
       link: /
 
 ---
