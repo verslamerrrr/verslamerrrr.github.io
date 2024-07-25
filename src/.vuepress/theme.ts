@@ -114,25 +114,31 @@ export default hopeTheme({
     },
   },
 
-  // enable it to preview all changes in time
-  // hotReload: true,
+  
 
   plugins: {
     blog: true,
 
-    // Install @waline/client before enabling it
-    // Note: This is for testing ONLY!
-    // You MUST generate and use your own comment service in production.
+    
     comment: {
       provider: "Waline",
       serverURL: "https://comments.verslamerrr.com",
+      reaction: [
+        'https://unpkg.com/@waline/emojis@1.2.0/bmoji/bmoji_applaud.png',
+        'https://unpkg.com/@waline/emojis@1.2.0/bmoji/bmoji_aaa.png',
+        'https://unpkg.com/@waline/emojis@1.2.0/bmoji/bmoji_ah.png',
+        'https://unpkg.com/@waline/emojis@1.2.0/bmoji/bmoji_blushing.png',
+        'https://unpkg.com/@waline/emojis@1.2.0/bmoji/bmoji_cute.png',
+        'https://unpkg.com/@waline/emojis@1.2.0/bmoji/bmoji_emm.png',
+
+      ],
     },
 
     components: {
       components: ["Badge", "VPCard"],
     },
 
-    // These features are enabled for demo, only preserve features you need here
+    
     mdEnhance: {
       align: true,
       attrs: true,
@@ -204,61 +210,6 @@ export default hopeTheme({
       // sandpack: true,
     },
 
-    // install @vuepress/plugin-pwa and uncomment these if you want a PWA
-    // pwa: {
-    //   favicon: "/favicon.ico",
-    //   cacheHTML: true,
-    //   cacheImage: true,
-    //   appendBase: true,
-    //   apple: {
-    //     icon: "/assets/icon/apple-icon-152.png",
-    //     statusBarColor: "black",
-    //   },
-    //   msTile: {
-    //     image: "/assets/icon/ms-icon-144.png",
-    //     color: "#ffffff",
-    //   },
-    //   manifest: {
-    //     icons: [
-    //       {
-    //         src: "/assets/icon/chrome-mask-512.png",
-    //         sizes: "512x512",
-    //         purpose: "maskable",
-    //         type: "image/png",
-    //       },
-    //       {
-    //         src: "/assets/icon/chrome-mask-192.png",
-    //         sizes: "192x192",
-    //         purpose: "maskable",
-    //         type: "image/png",
-    //       },
-    //       {
-    //         src: "/assets/icon/chrome-512.png",
-    //         sizes: "512x512",
-    //         type: "image/png",
-    //       },
-    //       {
-    //         src: "/assets/icon/chrome-192.png",
-    //         sizes: "192x192",
-    //         type: "image/png",
-    //       },
-    //     ],
-    //     shortcuts: [
-    //       {
-    //         name: "Demo",
-    //         short_name: "Demo",
-    //         url: "/demo/",
-    //         icons: [
-    //           {
-    //             src: "/assets/icon/guide-maskable.png",
-    //             sizes: "192x192",
-    //             purpose: "maskable",
-    //             type: "image/png",
-    //           },
-    //         ],
-    //       },
-    //     ],
-    //   },
-    // },
+   
   },
 });
