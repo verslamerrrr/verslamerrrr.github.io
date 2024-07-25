@@ -15,7 +15,7 @@ export default hopeTheme({
 
   logo: "/homelogo.png",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "verslamerrrr/verslamerrrr.github.io",
 
   docsDir: "src",
 
