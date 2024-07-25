@@ -12,7 +12,7 @@ heroText: Fiona's life
 tagline: English｜Code｜Travel｜Photograph
 action:
     - text: memoirs
-      link: /zh/memoirs.html
+      link: /memoirs.html
       type: primary
 
     - text: plans
