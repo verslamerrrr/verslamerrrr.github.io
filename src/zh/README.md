@@ -3,8 +3,8 @@ home: true
 title: Fiona
 icon: home
 heroImage: /icon.png
-bgImage: /seagull.png
-bgImageDark: /seagull.png
+bgImage: /bg.jpg
+bgImageDark: /bg.jpg
 
 
 
