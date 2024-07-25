@@ -1,12 +1,21 @@
 ---
 home: true
-layout: BlogHome
+title: Fiona
 icon: home
-title: Blog Home
-heroImage:  /logo.png
-heroText: Bonjour
+heroImage: /logo.png
 bgImage: /seacover.JPG
-tagline: Vers La Mer Dans La Mer
+bgImageDark: /seacover.JPG
 heroFullScreen: true
-footer: Welcome to my world
+bgImageStyle:
+    background-attachment: fixed
+heroText: Fiona's life
+tagline: English｜Code｜Travel｜Photograph
+action:
+    - text: memoirs
+      link: /zh/memoirs.html
+      type: primary
+
+    - text: plans
+      link: /
+
 ---
