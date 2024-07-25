@@ -2,7 +2,7 @@
 home: true
 title: Fiona
 icon: home
-heroImage: /cover.png
+heroImage: /logo.png
 bgImage: /seacover.JPG
 bgImageDark: /seacover.JPG
 heroFullScreen: true
