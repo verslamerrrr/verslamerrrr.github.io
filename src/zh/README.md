@@ -59,22 +59,22 @@ highlights:
       bgImageDark: /seacover.JPG
       highlights:
           - title: 风景
-            icon:
+            icon: caijing2
             details: 绿意｜绚烂的颜色｜黑白
             link: #
 
           - title: 街拍
-            icon:
+            icon: hbase
             details: 车来车往｜街边小店｜熙熙攘攘
             link: #
           
           - title: 静态建筑
-            icon:
+            icon: haitunhei
             details: 生活化场景｜另类建筑
             link: #
           
           - title: 人们
-            icon:
+            icon: icon-test
             details: 抓拍｜匆忙过客｜美丽的人
             link: #
 ---

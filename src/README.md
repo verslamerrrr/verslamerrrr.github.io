@@ -59,22 +59,22 @@ highlights:
       bgImageDark: /seacover.JPG
       highlights:
           - title: Landscape
-            icon:
+            icon: caijing2
             details: greens｜colors｜black n white
             link: #
 
           - title: Streets Photography
-            icon:
+            icon: hbase
             details: cars｜street shops｜crouds
             link: #
           
           - title: Static Buildings
-            icon:
+            icon: haitunhei
             details: life scenes｜outstanding architecture
             link: #
           
           - title: People
-            icon:
+            icon: icon-test
             details: point n shoot｜passengers｜beauties
             link: #
 
