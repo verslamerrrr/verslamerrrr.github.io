@@ -51,4 +51,30 @@ highlights:
             icon:
             details: 冲浪｜桨板｜甜食杂粮
             link: #
+
+    - header: 记录美好瞬间
+      description: 留下永恒的美
+      image: #
+      bgImage: /seacover.JPG
+      bgImageDark: /seacover.JPG
+      highlights:
+          - title: 风景
+            icon:
+            details: 绿意｜绚烂的颜色｜黑白
+            link: #
+
+          - title: 街拍
+            icon:
+            details: 车来车往｜街边小店｜熙熙攘攘
+            link: #
+          
+          - title: 静态建筑
+            icon:
+            details: 生活化场景｜另类建筑
+            link: #
+          
+          -title: 人们
+           icon:
+           details: 抓拍｜匆忙过客｜美丽的人
+           link: #
 ---
