@@ -11,7 +11,11 @@ export default hopeTheme({
     url: "https://verslamerrr.com",
   },
 
-  iconAssets: "fontawesome-with-brands",
+  //iconAssets: "fontawesome-with-brands",
+  iconPrefix: "iconfont icon-",
+  iconAssets: [
+    "//at.alicdn.com/t/c/font_4634755_n8781pd4h28.css",
+  ],
 
   logo: "/homelogo.png",
 
