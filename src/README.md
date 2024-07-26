@@ -38,17 +38,17 @@ highlights:
           background-size: initial
       features:
           - title: Xi'An
-            icon:
+            icon: haixian
             details: sightseeings｜foods｜trends
             link: #
 
           - title: Xia Men
-            icon:
+            icon: haitan
             details: plants｜architecture｜seafood
             link: #
           
           - title: San Ya
-            icon:
+            icon: haibin
             details: surfing｜paddke board｜desserts
             link: #
 

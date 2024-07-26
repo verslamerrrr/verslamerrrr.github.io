@@ -38,17 +38,17 @@ highlights:
           background-size: initial
       features:
           - title: 西安
-            icon: 
+            icon: haixian
             details: 古迹｜美食｜潮流
             link: #
 
           - title: 厦门
-            icon: hai
+            icon: haitan
             details: 植物｜建筑｜海鲜
             link: #
           
           - title: 三亚
-            icon:
+            icon: haibin
             details: 冲浪｜桨板｜甜食杂粮
             link: #
 
