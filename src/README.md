@@ -69,7 +69,7 @@ highlights:
             link: #
           
           - title: Static Buildings
-            icon: haitunhei
+            icon: xingyunjinli
             details: life scenes｜outstanding architecture
             link: #
           

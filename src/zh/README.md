@@ -69,7 +69,7 @@ highlights:
             link: #
           
           - title: 静态建筑
-            icon: haitunhei
+            icon: xingyunjinli
             details: 生活化场景｜另类建筑
             link: #
           
