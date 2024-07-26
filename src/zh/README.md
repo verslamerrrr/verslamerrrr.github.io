@@ -74,7 +74,7 @@ highlights:
             link: #
           
           - title: 人们
-           icon:
-           details: 抓拍｜匆忙过客｜美丽的人
-           link: #
+            icon:
+            details: 抓拍｜匆忙过客｜美丽的人
+            link: #
 ---
