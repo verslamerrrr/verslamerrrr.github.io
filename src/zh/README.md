@@ -33,7 +33,7 @@ highlights:
       image: /logo,png
       bgImage: /seacover.JPG
       bgImageDark: /seacover.JPG
-      bgImageStyle: /seacover.JPG
+      bgImageStyle:
           background-repeat: repeat
           background-size: initial
       features:
