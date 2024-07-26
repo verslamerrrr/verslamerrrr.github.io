@@ -73,7 +73,7 @@ highlights:
             details: 生活化场景｜另类建筑
             link: #
           
-          -title: 人们
+          - title: 人们
            icon:
            details: 抓拍｜匆忙过客｜美丽的人
            link: #
