@@ -49,7 +49,7 @@ highlights:
           
           - title: San Ya
             icon: haibin
-            details: surfing｜paddke board｜desserts
+            details: surfing｜paddle board｜desserts
             link: #
 
     - header: Record The Moments
