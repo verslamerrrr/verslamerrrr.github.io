@@ -24,7 +24,7 @@ highlights:
       bgImage: /bgImage.jpg
       bgImageDark: /bgImage.jpg
       highlights: 
-          - title: 遇见未来
-          - title: 追溯过去
+          - title: 遇见
+          - title: 未来如期进行
 
 ---
