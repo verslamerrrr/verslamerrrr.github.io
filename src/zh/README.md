@@ -17,5 +17,14 @@ action:
 
     - text: 未来
       link: /
+  
+highlights:
+    - header: 每一天都在旅行
+      image: /logo.png
+      bgImage: /bgImage.jpg
+      bgImageDark: /bgImage.jpg
+      highlights: 
+          - title: 遇见未来
+          - title: 追溯过去
 
 ---
