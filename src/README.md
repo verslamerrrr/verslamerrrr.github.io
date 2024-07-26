@@ -68,7 +68,7 @@ highlights:
             details: cars｜street shops｜crouds
             link: #
           
-          - title: static buildings
+          - title: Static Buildings
             icon:
             details: life scenes｜outstanding architecture
             link: #
