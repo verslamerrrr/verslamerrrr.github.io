@@ -19,16 +19,16 @@ actions:
       link: /
 
 highlights:
-    - header: Everday's traveling
+    - header: Everday's Traveling
       image: #
       bgImage: /seacover.JPG
       bgImageDark: /seacover.JPG
       heroFullScreen: true
       highlights: 
           - title: Meet Future
-          - title: The future is ongoing
+          - title: The Future Is Ongoing
 
-    - header: Enjoy life Never miss out
+    - header: Enjoy Life Never Miss Out
       description: I'd love to have my fav things growing little by little
       image: #
       bgImage: /seacover.JPG
@@ -37,7 +37,7 @@ highlights:
           background-repeat: repeat
           background-size: initial
       features:
-          - title: Xi'an
+          - title: Xi'An
             icon:
             details: sightseeings｜foods｜trends
             link: #
