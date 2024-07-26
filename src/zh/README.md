@@ -38,12 +38,12 @@ highlights:
           background-size: initial
       features:
           - title: 西安
-            icon:
+            icon: 
             details: 古迹｜美食｜潮流
             link: #
 
           - title: 厦门
-            icon:
+            icon: hai
             details: 植物｜建筑｜海鲜
             link: #
           
