@@ -52,7 +52,7 @@ highlights:
             details: surfing｜paddke board｜desserts
             link: #
 
-     - header: Record The Moments
+    - header: Record The Moments
       description: Beauty Remains
       image: #
       bgImage: /seacover.JPG
