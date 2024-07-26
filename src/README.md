@@ -20,7 +20,7 @@ actions:
 
 highlights:
     - header: Everday's traveling
-      image: /logo.png
+      image: #
       bgImage: /seacover.JPG
       bgImageDark: /seacover.JPG
       heroFullScreen: true
@@ -30,7 +30,7 @@ highlights:
 
     - header: Enjoy life Never miss out
       description: I'd love to have my fav things growing little by little
-      image: /logo,png
+      image: #
       bgImage: /seacover.JPG
       bgImageDark: /seacover.JPG
       bgImageStyle:

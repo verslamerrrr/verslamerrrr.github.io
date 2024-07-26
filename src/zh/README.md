@@ -20,7 +20,7 @@ actions:
   
 highlights:
     - header: 每一天都在旅行
-      image: /logo.png
+      image: #
       bgImage: /seacover.JPG
       bgImageDark: /seacover.JPG
       heroFullScreen: true
@@ -30,7 +30,7 @@ highlights:
 
     - header: 享受生活 从不错过
       description: 喜欢的事物一次一点点
-      image: /logo,png
+      image: #
       bgImage: /seacover.JPG
       bgImageDark: /seacover.JPG
       bgImageStyle:
