@@ -114,15 +114,11 @@ export default hopeTheme({
     feed: {
       count: 100,
       rssOutputFilename: "rss.xml",
-      image: #
-      icon: #
       rss: true,
       atom: true,
       json: true,
       channel:{
         title:"Fiona的简单思考"
-        link: #
-        icon: #
         description: "英语学习｜法语学习｜日常拍摄｜走街串巷｜美食美景｜技术宅基地"
 
       },
