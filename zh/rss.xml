@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://mister-hope.github.io/zh/rss.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://verslamerrrr.github.io/zh/rss.xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <atom:link href="https://mister-hope.github.io/zh/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://verslamerrrr.github.io/zh/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Fiona的博客</title>
-    <link>https://mister-hope.github.io/zh/</link>
+    <link>https://verslamerrrr.github.io/zh/</link>
     <description>一段旅程的开始</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 02 Aug 2024 11:39:59 GMT</pubDate>
-    <lastBuildDate>Fri, 02 Aug 2024 11:39:59 GMT</lastBuildDate>
+    <pubDate>Fri, 02 Aug 2024 11:45:36 GMT</pubDate>
+    <lastBuildDate>Fri, 02 Aug 2024 11:45:36 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
       <title>介绍页</title>
-      <link>https://mister-hope.github.io/zh/intro.html</link>
-      <guid>https://mister-hope.github.io/zh/intro.html</guid>
-      <source url="https://mister-hope.github.io/zh/rss.xml">介绍页</source>
+      <link>https://verslamerrrr.github.io/zh/intro.html</link>
+      <guid>https://verslamerrrr.github.io/zh/intro.html</guid>
+      <source url="https://verslamerrrr.github.io/zh/rss.xml">介绍页</source>
       <description>介绍页 将你的个人介绍和档案放置在此处。</description>
       <pubDate>Wed, 10 Jul 2024 14:42:33 GMT</pubDate>
       <content:encoded><![CDATA[
 <p>将你的个人介绍和档案放置在此处。</p>
 ]]></content:encoded>
-      <enclosure url="https://mister-hope.github.io/assets/images/cover3.jpg" type="image/jpeg"/>
+      <enclosure url="https://verslamerrrr.github.io/assets/images/cover3.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
