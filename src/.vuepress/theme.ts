@@ -119,7 +119,7 @@ export default hopeTheme({
       json: true,
       channel:{
         link: "verslamerrr.com/rss.xml",
-        title:"Fiona的简单思考",
+        title: "Fiona的简单思考",
         description: "英语学习｜法语学习｜日常拍摄｜走街串巷｜美食美景｜技术宅基地",
 
       },
