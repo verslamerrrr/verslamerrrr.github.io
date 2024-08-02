@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://verslamerrrr.github.io/zh/atom.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://verslamerrr.com/zh/atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
-  <id>https://verslamerrrr.github.io/zh/</id>
+  <id>https://verslamerrr.com/zh/</id>
   <title>Fiona的博客</title>
   <subtitle>一段旅程的开始</subtitle>
-  <updated>2024-08-02T11:45:36.811Z</updated>
+  <updated>2024-08-02T11:47:52.562Z</updated>
   <generator>@vuepress/plugin-feed</generator>
-  <link rel="self" href="https://verslamerrrr.github.io/zh/atom.xml"/>
-  <link rel="alternate" href="https://verslamerrrr.github.io/zh/"/>
+  <link rel="self" href="https://verslamerrr.com/zh/atom.xml"/>
+  <link rel="alternate" href="https://verslamerrr.com/zh/"/>
   <entry>
     <title type="text">介绍页</title>
-    <id>https://verslamerrrr.github.io/zh/intro.html</id>
-    <link href="https://verslamerrrr.github.io/zh/intro.html"/>
+    <id>https://verslamerrr.com/zh/intro.html</id>
+    <link href="https://verslamerrr.com/zh/intro.html"/>
     <updated>2024-07-17T14:58:04.000Z</updated>
     <summary type="html"><![CDATA[
 <p>将你的个人介绍和档案放置在此处。</p>

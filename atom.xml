@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://verslamerrrr.github.io/atom.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://verslamerrr.com/atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
-  <id>https://verslamerrrr.github.io/</id>
+  <id>https://verslamerrr.com/</id>
   <title>Fiona&amp;apos;s Blog</title>
   <subtitle>A journey begins</subtitle>
-  <updated>2024-08-02T11:45:36.811Z</updated>
+  <updated>2024-08-02T11:47:52.562Z</updated>
   <generator>@vuepress/plugin-feed</generator>
-  <link rel="self" href="https://verslamerrrr.github.io/atom.xml"/>
-  <link rel="alternate" href="https://verslamerrrr.github.io/"/>
+  <link rel="self" href="https://verslamerrr.com/atom.xml"/>
+  <link rel="alternate" href="https://verslamerrr.com/"/>
   <entry>
     <title type="text">Intro Page</title>
-    <id>https://verslamerrrr.github.io/intro.html</id>
-    <link href="https://verslamerrrr.github.io/intro.html"/>
+    <id>https://verslamerrr.com/intro.html</id>
+    <link href="https://verslamerrr.com/intro.html"/>
     <updated>2024-07-17T14:58:04.000Z</updated>
     <summary type="html"><![CDATA[
 <p>Place your introduction and profile here.</p>
