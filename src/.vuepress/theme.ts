@@ -144,18 +144,34 @@ export default hopeTheme({
 
     
     mdEnhance: {
-      align: true,
-      attrs: true,
+      tabs: true,
+      chart: false,
+      echarts: false,
+      mermaid: true,
+      //使用 KaTeX 启用 TeX 支持
+      katex: true,
+      mathjax: false,
+      vuePlayground: false,
+      sub: true,
+      spoiler: true,
+      sup: true,
       codetabs: true,
-      component: true,
       demo: true,
+      tasklist: true,
       figure: true,
       imgLazyload: true,
+      imgMark: true,
       imgSize: true,
       include: true,
+      attrs: false,
       mark: true,
+      footnote: true,
+      align: true,
+      hint: true,
+      flowchart: false,
+      gfm: true,
+      revealJs: false,
       plantuml: true,
-      spoiler: true,
       stylize: [
         {
           matcher: "Recommended",
@@ -169,10 +185,6 @@ export default hopeTheme({
           },
         },
       ],
-      sub: true,
-      sup: true,
-      tabs: true,
-      tasklist: true,
       vPre: true,
 
       // install chart.js before enabling it
