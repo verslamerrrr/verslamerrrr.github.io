@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://mister-hope.github.io/atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
+  <id>https://mister-hope.github.io/</id>
+  <title>Fiona&amp;apos;s Blog</title>
+  <subtitle>A journey begins</subtitle>
+  <updated>2024-08-02T11:39:59.527Z</updated>
+  <generator>@vuepress/plugin-feed</generator>
+  <link rel="self" href="https://mister-hope.github.io/atom.xml"/>
+  <link rel="alternate" href="https://mister-hope.github.io/"/>
+  <entry>
+    <title type="text">Intro Page</title>
+    <id>https://mister-hope.github.io/intro.html</id>
+    <link href="https://mister-hope.github.io/intro.html"/>
+    <updated>2024-07-17T14:58:04.000Z</updated>
+    <summary type="html"><![CDATA[
+<p>Place your introduction and profile here.</p>
+]]></summary>
+    <content type="html"><![CDATA[
+<p>Place your introduction and profile here.</p>
+]]></content>
+    <published>2024-07-10T14:42:33.000Z</published>
+  </entry>
+</feed>
