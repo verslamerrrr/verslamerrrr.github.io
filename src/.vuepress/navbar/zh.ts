@@ -30,7 +30,36 @@ export const zhNavbar = navbar([
         ]
       }
     ]
-  }
+  },
+  {
+    text: "study",
+    icon: "",
+    children: [
+      {
+        text: "Group 1",
+        icon: "",
+        children: [
+          "/zh/home/blog.html",
+
+        ]
+      },
+      {
+        text: "Group2",
+        icon: "",
+        children: [
+          "/zh/home/blog.html",
+
+        ]
+      }, {
+        text: "Group 3",
+        icon: "",
+        children: [
+          "/zh/home/blog.html",
+
+        ]
+      }
+    ]
+  },
   
   
 ]);
