@@ -5,7 +5,14 @@ export const zhNavbar = navbar([
   {
     text: "life",
     icon: "",
-    link: "/zh/memoirs.html",
+    children: [
+      "/zh/blog/page1.html",
+      "/zh/blog/page2.html",
+      "/zh/blog/page3.html",
+      "/zh/blog/page4.html",
+      "/zh/memoirs.html",
+
+    ]
 
   }
   
