@@ -11,6 +11,7 @@ export const zhNavbar = navbar([
       "/zh/blog/page3.html",
       "/zh/blog/page4.html",
       "/zh/memoirs.html",
+      { text: "链接名称", icon: "图标", link: "/zh/life/look.html"}
 
     ]
 
