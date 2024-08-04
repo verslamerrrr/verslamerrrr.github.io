@@ -5,7 +5,7 @@ export const zhNavbar = navbar([
   {
     text: "life",
     icon: "",
-    link: "https://bornforthis.cn",
+    link: "/zh/memoirs.html",
 
   }
   
