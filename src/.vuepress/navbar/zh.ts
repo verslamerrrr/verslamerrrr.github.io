@@ -22,7 +22,7 @@ export const zhNavbar = navbar([
 
         ]
       }, {
-        text: "Group 2",
+        text: "Group 3",
         icon: "",
         children: [
           "/zh/home/blog.html",
